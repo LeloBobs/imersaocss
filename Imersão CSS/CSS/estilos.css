@@ -1,0 +1,39 @@
+body{
+    background-Image:url('https://i.pinimg.com/originals/21/39/e0/2139e0405ae392726363954e18afa342.jpg');
+    background-size:auto 100vh;
+    height:100ph
+      
+    color:#6A5ACD
+  }
+  
+  .menu{
+    background:white
+  }
+  
+  a{
+    color.teal
+    text-decoration:none;
+  }
+  
+  a:hover {
+    text-decoration:underline;
+  }
+  
+  .menu ul{
+    display:flex;
+    justify-content:space-around
+  }
+  
+  .menu li{
+    list-style: none;
+  }
+  
+  .site-subtitle,
+  .site-title{
+    color:whitesmoke;
+    text-align:center;
+  }
+  
+  .site-subtitle{
+    style:italic;
+  }
